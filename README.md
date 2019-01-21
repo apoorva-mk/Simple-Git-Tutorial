@@ -2,7 +2,7 @@
 Steps to be followed!
 
 * fork repository (No need if you can clone main repo)
-* git clone &ltlink&gt
+* git clone `<link>`
 * git branch &ltbranch name&gt
 * git checkout &ltbranch name&gt
 * move into directory
