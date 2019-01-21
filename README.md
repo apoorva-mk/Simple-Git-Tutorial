@@ -3,12 +3,12 @@ Steps to be followed!
 
 * fork repository (No need if you can clone main repo)
 * git clone `<link>`
-* git branch &ltbranch name&gt
-* git checkout &ltbranch name&gt
+* git branch `<branch name>`
+* git checkout `<branch name>` 
 * move into directory
-* make neccessary changes in the files/add files
+* make neccessary changes and add necessary files
 * git add .
-* git commit -m &ltmessage about changes&gt
+* git commit -m `<message about changes>`
 * git push origin master
 * make a pull request !
 
