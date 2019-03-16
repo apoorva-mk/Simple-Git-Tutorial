@@ -12,3 +12,13 @@ Steps to be followed!
 * git push origin master
 * make a pull request !
 
+
+
+How to squash commits!
+* git rebase -i HEAD~4 ( to squash 4 commits )
+* change pick to squash in the text editor
+* exit the editor
+* git push origin branch-name --force ( Use when already pushed commits )
+
+
+
