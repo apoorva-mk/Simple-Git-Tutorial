@@ -20,5 +20,6 @@ How to squash commits!
 * exit the editor
 * git push origin branch-name --force ( Use when already pushed commits )
 
+Changing some stuff in new_branch
 
 
