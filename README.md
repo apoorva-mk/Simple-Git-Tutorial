@@ -1,5 +1,5 @@
 # Simple-Git-Tutorial
-**Steps to be followed!
+**Steps to be followed**
 
 * fork repository (No need if you can clone main repo)
 * git clone `<link>`
@@ -14,7 +14,7 @@
 
 
 
-**How to squash commits!
+**How to squash commits**
 * git rebase -i HEAD~4 ( to squash 4 commits )
 * change pick to squash in the text editor
 * exit the editor
