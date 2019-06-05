@@ -25,4 +25,4 @@
 Doesn't commit the files that are listed under them
 
 **Clearing the commit history**
-<a>https://help.github.com/en/articles/ignoring-files</a>
+<a>https://help.github.com/en/articles/removing-sensitive-data-from-a-repository</a>
