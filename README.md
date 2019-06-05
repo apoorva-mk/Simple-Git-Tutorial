@@ -21,4 +21,8 @@
 * git push origin branch-name --force ( Use when already pushed commits )
 
 
+**About .gitignore**
+Doesn't commit the files that are listed under them
 
+**Clearing the commit history**
+<a>https://help.github.com/en/articles/ignoring-files</a>
